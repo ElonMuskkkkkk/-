@@ -12,5 +12,4 @@ deb-src http://mirrors.aliyun.com/ubuntu/ jammy-backports main restricted univer
 
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILlpAATZ0CAAgsVmGrQBAtGhfAqAb2jhrwbb1pbb+dqO yxxchange@163.com
 
-
-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
+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
